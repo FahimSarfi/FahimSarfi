@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Fahim 👋
 
-<!--
-**FahimSarfi/FahimSarfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical tools with AI, Python, and modern web technologies. I’m interested in making complex systems easier to understand, operate, and improve.
 
-Here are some ideas to get you started:
+### 🔨 Current project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[SentinelOps AI](https://github.com/FahimSarfi/sentinelops-ai)**  
+An AI-assisted incident investigation and recovery project, with PostgreSQL performance diagnostics, approval-based repairs, and recovery verification.
+
+### 🧰 Technologies I work with
+
+- **Backend:** Python, FastAPI, PostgreSQL
+- **Frontend:** TypeScript, React, Next.js
+- **Development:** Git, GitHub Actions, Docker
+- **Testing:** pytest, Playwright
+
+### 🌱 What I’m exploring
+
+- AI agents that work with real tools and measurable results
+- Database performance and system observability
+- Reliable automation, testing, and CI/CD
+
+### 🤝 Let’s connect
+
+Explore my repositories, open an issue, or share an idea for collaboration.
